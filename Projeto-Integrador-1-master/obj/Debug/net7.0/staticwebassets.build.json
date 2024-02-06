@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Wz9bmuLREk7jN8MaVt1i5GZHYnSDEfLUG/N1IUcF65k=",
+  "Source": "Beautysoft",
+  "BasePath": "_content/Beautysoft",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Beautysoft\\wwwroot",
+      "Source": "Beautysoft",
+      "ContentRoot": "F:\\Downloads\\Projeto-Integrador-1-master\\wwwroot\\",
+      "BasePath": "_content/Beautysoft",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\Downloads\\Projeto-Integrador-1-master\\wwwroot\\imagens\\baixados.jpeg",
+      "SourceId": "Beautysoft",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Downloads\\Projeto-Integrador-1-master\\wwwroot\\",
+      "BasePath": "_content/Beautysoft",
+      "RelativePath": "imagens/baixados.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\baixados.jpeg"
+    }
+  ]
+}
