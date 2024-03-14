@@ -31,7 +31,8 @@ builder.Services.AddScoped<IUsuarioService, UsuarioService>();
 builder.Services.AddScoped<IProcedimentoService, ProcedimentoService>();
 builder.Services.AddScoped<IVoucherService, VoucherService>();
 builder.Services.AddScoped<IMensagemTemporariaService, MensagemTemporariaService>();
-builder.Services.AddScoped <IAgendamentoService, AgendamentoService>();
+builder.Services.AddScoped<IAgendamentoService, AgendamentoService>();
+builder.Services.AddScoped<IPerfilUsuarioService, PerfilUsuarioService>();
 
 builder.Services.AddHttpContextAccessor();
 

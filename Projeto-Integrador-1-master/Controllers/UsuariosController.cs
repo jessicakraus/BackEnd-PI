@@ -44,6 +44,7 @@ namespace BeautySoftAPI.Controllers
             return Ok(new
             {
                 Status = user.Status,
+                Email = user.EnderecoEmail,
                 Token = token
             });
         }

@@ -21,7 +21,7 @@ namespace BeautySoftAPI.Services
         public async Task<Usuario> BuscarUsuarioPorIdAsync(int Id) =>
               await _context.Usuarios.FindAsync(Id);
 
-      
+
 
         public async Task AtualizarUsuarioAsync(int usuarioId, UsuarioDto usuarioDto)
         {

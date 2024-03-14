@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Wz9bmuLREk7jN8MaVt1i5GZHYnSDEfLUG/N1IUcF65k=",
+  "Hash": "O2cZXAaAG1KwLaiKwm8nT/JblAZ2XjlcBiyRu6dfKDc=",
   "Source": "Beautysoft",
   "BasePath": "_content/Beautysoft",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Beautysoft\\wwwroot",
       "Source": "Beautysoft",
-      "ContentRoot": "F:\\Downloads\\Projeto-Integrador-1-master\\wwwroot\\",
+      "ContentRoot": "F:\\beautysoft-backend\\projeto-integrador-v2\\wwwroot\\",
       "BasePath": "_content/Beautysoft",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\Downloads\\Projeto-Integrador-1-master\\wwwroot\\imagens\\baixados.jpeg",
+      "Identity": "F:\\beautysoft-backend\\projeto-integrador-v2\\wwwroot\\imagens\\baixados.jpeg",
       "SourceId": "Beautysoft",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Downloads\\Projeto-Integrador-1-master\\wwwroot\\",
+      "ContentRoot": "F:\\beautysoft-backend\\projeto-integrador-v2\\wwwroot\\",
       "BasePath": "_content/Beautysoft",
       "RelativePath": "imagens/baixados.jpeg",
       "AssetKind": "All",

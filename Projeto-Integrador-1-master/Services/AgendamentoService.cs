@@ -23,6 +23,7 @@ namespace Beautysoft.Services
                 {
                     DataHoraAgendada = agendamentoDto.DataHoraAgendada,
                     Nome = agendamentoDto.Nome,
+                    Email = agendamentoDto.Email,
                     Descricao = agendamentoDto.Descricao,
                     Tempo = agendamentoDto.Tempo,
                     Valor = agendamentoDto.Valor,
@@ -51,6 +52,7 @@ namespace Beautysoft.Services
             {
                 Id = a.Id,
                 DataHoraAgendada = a.DataHoraAgendada,
+                Email = a.Email,
                 Nome = a.Nome,
                 Descricao = a.Descricao,
                 Tempo = a.Tempo,
@@ -73,6 +75,7 @@ namespace Beautysoft.Services
             {
                 Id = agendamento.Id,
                 DataHoraAgendada = agendamento.DataHoraAgendada,
+                Email = agendamento.Email,
                 Nome = agendamento.Nome,
                 Descricao = agendamento.Descricao,
                 Tempo = agendamento.Tempo,
@@ -92,6 +95,7 @@ namespace Beautysoft.Services
 
             agendamentoExistente.DataHoraAgendada = agendamentoDto.DataHoraAgendada;
             agendamentoExistente.Nome = agendamentoDto.Nome;
+            agendamentoExistente.Email = agendamentoDto.Email;
             agendamentoExistente.Descricao = agendamentoDto.Descricao;
             agendamentoExistente.Tempo = agendamentoDto.Tempo;
             agendamentoExistente.Valor = agendamentoDto.Valor;
